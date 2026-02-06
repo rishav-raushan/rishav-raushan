@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F2027,203A43,2C5364&height=250&section=header&text=Rishav%20Raushan&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=fadeIn&stroke=ffffff&strokeWidth=0" width="100%"/>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=High-Performance+Defense+System+Internals;Architecting+Air-Gapped+Security+Solutions;Real-Time+C%2B%2B+%26+Qt+Embedded+Systems;Lead+Engineer+for+Tactical+Android+Units" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=High-Performance+Defense+System+Internals;Architecting+Air-Gapped+Security+Solutions;Real-Time+C%2B%2B+%26+Qt+Embedded+Systems;Lead+Engineer+for+Tactical+Android+Units" alt="Typing SVG" />
 </div>
 
 <br>
