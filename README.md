@@ -25,7 +25,7 @@
 
 ---
 
-### 🛡️ Featured Tactical Projects
+### 🛡️ Tactical Portfolio
 
 | Project | Role & Impact | Tech Stack |
 | :--- | :--- | :--- |
@@ -36,7 +36,7 @@
 
 ---
 
-### 💻 Technologies & Tools
+### 💻 Mission-Critical Stack
 
 <div align="center">
   <!-- Languages -->
@@ -63,21 +63,21 @@
 
 ---
 
-### 📊 Performance Metrics
+### 📊 GitHub Overview
 
 <div align="center">
-  <!-- Use standard tokyonight theme which is well supported -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rishav-raushan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-raushan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%"/>
+  <a href="https://github.com/rishav-raushan">
+    <img src="https://img.shields.io/github/followers/rishav-raushan?label=Followers&style=for-the-badge&color=238636&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/rishav-raushan?tab=repositories">
+     <img src="https://img.shields.io/github/public-repos/rishav-raushan?label=Repositories&style=for-the-badge&color=238636&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/rishav-raushan">
+    <img src="https://img.shields.io/github/stars/rishav-raushan?label=Stars%20Received&style=for-the-badge&color=238636&logo=github&logoColor=white" />
+  </a>
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishav-raushan&theme=react-dark&bg_color=1a1b27&hide_border=true" width="100%"/>
-</div>
-
----
 
 <div align="center">
   <p align="center">
