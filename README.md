@@ -39,9 +39,26 @@
 ### 💻 Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,qt,python,linux,android,docker,cmake,git,bash,sqlite&theme=dark" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=java,react,ts,nodejs,postgres,firebase,md,vim,idea,vscode&theme=dark" />
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qt_6-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <br>
+  <!-- Platforms & Tools -->
+  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMake-%23064F8C.svg?style=for-the-badge&logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/ZeroMQ-%23DF0000.svg?style=for-the-badge&logo=zeromq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <br>
+  <!-- Web & Data -->
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
 </div>
 
 ---
@@ -49,14 +66,15 @@
 ### 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishav-raushan&show_icons=true&theme=refined&hide_border=true&count_private=true&bg_color=0d1117&title_color=ffffff&icon_color=36BCF7" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-raushan&layout=compact&theme=refined&hide_border=true&langs_count=6&bg_color=0d1117&title_color=ffffff&icon_color=36BCF7" width="48%"/>
+  <!-- Use standard tokyonight theme which is well supported -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rishav-raushan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-raushan&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishav-raushan&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishav-raushan&theme=react-dark&bg_color=1a1b27&hide_border=true" width="100%"/>
 </div>
 
 ---
