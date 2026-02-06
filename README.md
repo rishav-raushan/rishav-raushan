@@ -70,13 +70,15 @@
 ### 📊 GitHub Overview
 
 <div align="center">
-  <a href="https://github.com/rishav-raushan">
+  <a href="https://github.com/rishav-raushan?tab=followers">
     <img src="https://img.shields.io/github/followers/rishav-raushan?label=Followers&style=for-the-badge&color=238636&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/rishav-raushan?tab=repositories">
-     <img src="https://img.shields.io/github/public-repos/rishav-raushan?label=Repositories&style=for-the-badge&color=238636&logo=github&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=rishav-raushan&icon=5&color=2" height="28" alt="Visitors" />
   </a>
-  <a href="https://github.com/rishav-raushan">
+  &nbsp;&nbsp;
+  <a href="https://github.com/rishav-raushan?tab=stars">
     <img src="https://img.shields.io/github/stars/rishav-raushan?label=Stars%20Received&style=for-the-badge&color=238636&logo=github&logoColor=white" />
   </a>
 </div>
