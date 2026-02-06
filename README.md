@@ -74,8 +74,8 @@
     <img src="https://img.shields.io/github/followers/rishav-raushan?label=Followers&style=for-the-badge&color=238636&logo=github&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=rishav-raushan&icon=5&color=2" height="28" alt="Visitors" />
+  <a href="https://github.com/rishav-raushan">
+    <img src="https://komarev.com/ghpvc/?username=rishav-raushan&style=for-the-badge&label=Profile%20Views&color=238636&logo=github" alt="Profile Views" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/rishav-raushan?tab=stars">
