@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&section=header&text=Rishav%20Raushan&fontSize=80&fontColor=ffffff&desc=High-Performance%20Defense%20System%20Internals&descSize=25&descAlign=50&descAlignY=60&stroke=ffffff&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F2027,203A43,2C5364&height=250&section=header&text=Rishav%20Raushan&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=fadeIn&stroke=ffffff&strokeWidth=0" width="100%"/>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=High-Performance+Defense+System+Internals;Architecting+Air-Gapped+Security+Solutions;Real-Time+C%2B%2B+%26+Qt+Embedded+Systems;Lead+Engineer+for+Tactical+Android+Units" alt="Typing SVG" />
 </div>
+
+<br>
 
 <div align="center">
   <table>
@@ -83,5 +87,5 @@
   <p align="center">
     <i>"Optimization is not a choice, it's a requirement for survival in the field."</i>
   </p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=20&section=footer&width=100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F2027,203A43,2C5364&height=100&section=footer&width=100%"/>
 </div>
